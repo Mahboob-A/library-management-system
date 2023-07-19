@@ -25,7 +25,8 @@ catalogue and Borrow / Return Books.
 
 This is something you will see in  the project
 
-![Sneak Peek](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9scnZ0Y205djVtejE1aXV4NnpxeXA3b3owazd6dnRxankzYTF6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YvcHPQ5oxZvZXDw4BK/giphy-downsized-large.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9scnZ0Y205djVtejE1aXV4NnpxeXA3b3owazd6dnRxankzYTF6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YvcHPQ5oxZvZXDw4BK/giphy-downsized-large.gif" alt="Sneak Peek">
+
 
 ## FAQ
 
@@ -40,5 +41,5 @@ Answer 2
 
 ## Feedback
 
-If you have any feedback, please reach out to us at iammahboob.a@gmail.com
+If you have any feedback, please reach out to me at iammahboob.a@gmail.com
 
