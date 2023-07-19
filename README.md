@@ -24,12 +24,13 @@ catalogue and Borrow / Return Books.
 ## Sneak Peek
 
 This is something you will see in  the project
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9scnZ0Y205djVtejE1aXV4NnpxeXA3b3owazd6dnRxankzYTF6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YvcHPQ5oxZvZXDw4BK/giphy-downsized-large.gif)
+![](https://github.com/Mahboob-A/library-management-system/assets/109282492/b481aec9-48a2-4a08-9931-67e2c4798746)
 
 
 ## FAQ
 
 #### qs 
+
 
 
 
