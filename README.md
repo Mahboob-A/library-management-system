@@ -27,16 +27,6 @@ This is something you will see in  the project
 ![](https://github.com/Mahboob-A/library-management-system/assets/109282492/b481aec9-48a2-4a08-9931-67e2c4798746)
 
 
-## FAQ
-
-#### qs 
-
-
-
-
-#### Question 2
-
-Answer 2
 
 
 ## Feedback
